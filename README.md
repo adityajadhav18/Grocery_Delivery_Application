@@ -8,7 +8,7 @@ About us:
 Contact us:
 ![Screenshot (2746)](https://github.com/adityajadhav18/Grocery_Delivery_Application/assets/88199222/5bec2de8-682d-4299-9771-276823ac7869)
 Register:
-![Screenshot (2748)](https://github.com/adityajadhav18/Grocery_Delivery_Application/assets/88199222/a4b3f4b4-bac7-4552-a096-f2a3bbacc7f8)
+![Screenshot (2773)](https://github.com/adityajadhav18/Grocery_Delivery_Application/assets/88199222/6a0738fa-1444-453a-93bc-f86230e70d14)
 Login:
 ![Screenshot (2751)](https://github.com/adityajadhav18/Grocery_Delivery_Application/assets/88199222/5c4eebdc-30ad-4f88-a3a3-ae6d78cdd20d)
 Forgot Password:
